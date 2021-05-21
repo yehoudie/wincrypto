@@ -1,0 +1,14 @@
+build*
+venv/
+tests/
+.vs/
+.idea
+*.7z
+.cproject
+.project
+.settings/
+**/*.log
+**/*.wrm
+**/*.err
+CMakeSettings.json
+*.vcxproj.user
